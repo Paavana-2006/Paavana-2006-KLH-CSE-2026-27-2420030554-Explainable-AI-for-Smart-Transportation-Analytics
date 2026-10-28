@@ -1,0 +1,11 @@
+Item,Description
+Geographic level,State
+Temporal level,Year
+Accident source,State-level annual accident data
+Transport source,City-level transport aggregated to State
+Weather source,City-level daily weather aggregated to State-Year
+Final observation level,State-Year
+Target,Accident trend class
+Geographic harmonization,City names normalized and mapped to State
+Temporal harmonization,Weather dates converted to Year and aggregated
+Leakage prevention,Current-year accident count is not used as a predictor

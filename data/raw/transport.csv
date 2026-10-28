@@ -1,0 +1,75 @@
+City Name,Type Of Bus (Ac / Non Ac),No. of buses of that type,No. of bus terminals,No. of bus stands,No. of bus stops
+Agartala,AC,11,3,6,48
+Agartala,Non AC,162,3,6,48
+Agra,Non AC,170,20,5,30
+Ahmedabad,AC,189,16,1157,1157
+Ahmedabad,Non AC,751,16,1157,1157
+Belagavi,Non AC,65,1,2,33
+Bengaluru,AC,850,13,40,2212
+Bengaluru,Non AC,5827,13,40,2212
+Bhopal,AC,20,1,3,322
+Bhopal,Non AC,205,1,3,322
+Bhopal,Midi Buses,62,1,3,322
+Chandigarh ,AC,193,2,2,268
+Chandigarh ,Non AC,199,2,2,268
+Chennai,AC,NA,44,44,2415
+Chennai,Non AC,3740,44,44,2415
+Dehradun,Non AC,245,NA,29,57
+Erode,Non AC,114,7,1,180
+Faridabad,AC,30,2,2,26
+Faridabad,Non AC,35,2,2,20
+Gwalior,Non AC,2,1,1,48
+Indore,AC,42,1,4,529
+Indore,Non AC,247,1,4,529
+Jabalpur,Non AC,119,1,2,75
+Jabalpur,AC,2,1,2,12
+Kakinada,Amaravathi Ac,2,1,1,13
+Kakinada,Indra  Ac,2,1,1,13
+Kakinada,Garuda  Ac,10,1,1,13
+Kakinada,Super Luxury,46,1,1,13
+Kakinada,Ultra Delux,28,1,1,13
+Kakinada,Express,22,1,1,13
+Kakinada,Telugu Velugu,67,1,1,13
+Kanpur,AC,10,22,12,20
+Kanpur,Non AC,10,22,14,21
+Kohima,Non AC,89,NA,5,9
+Kota,Non AC,34,1,54,54
+Lucknow,AC,15,2,200,230
+Lucknow,Non AC,30,2,200,230
+Lucknow,Tata Big Buses,90,2,200,230
+Lucknow,Swaraj Mazda,125,2,200,230
+Ludhiana,AC,5,1,1,75
+Ludhiana,Non AC,75,1,1,75
+Ludhiana,Midi Buses,40,1,1,75
+Madurai   City,Non AC,621,391,6,884
+Nagpur,Non AC,387,1,NA,NA
+Pimpri Chichwad,AC,10,92,100,2622
+Pimpri Chichwad,Non AC,2025,92,100,2622
+Pune,AC,10,92,100,2622
+Pune,Non AC,2025,92,100,2622
+Raipur,AC,30,NA,NA,NA
+Raipur,Non AC,127,NA,NA,NA
+Ranchi,Non AC,91,35,3,63
+Rourkela,Non Ac,Non AC,2,2,30
+Salem,,317,6,2,96
+Shillong,Non AC,206,4,4,54
+Shivamogga,Non AC,32,1,1,0
+Solapur,AC,10,5,0,217
+Solapur,Non AC,94,5,0,217
+Srinagar,Non AC,1536,2,1,NA
+Thane ,AC,40,20,403,1170
+Thane ,Non AC,427,20,403,1170
+Thanjavur,Non AC,152,131,3,80
+Thiruvananthapuram,AC,56,4,13,1232
+Thiruvananthapuram,Non AC,321,4,13,1232
+Tiruchirappalli ,Non AC,3253,2,2,274
+Tirupati,Non AC,50,3,3,55
+Tiruppur,Non AC,316,7,2,77
+Tumakuru,Non AC,48,1,1,142
+Udaipur,AC,NA,2,18,18
+Vadodara,Non AC,130,1,10,300
+Vadodara,AC,20,1,10,300
+Visakhapatnam,AC,17,126,9,294
+Visakhapatnam,CO,296,126,9,294
+Visakhapatnam,ME,352,126,9,294
+Warangal,Non AC,110,8,2,194

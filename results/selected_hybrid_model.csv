@@ -1,0 +1,2 @@
+Selection Status,Selected Hybrid,Best Baseline,Best Baseline F1,Hybrid F1,F1 Improvement,Improvement Percentage Points,Hybrid ROC-AUC,CV Protocol
+NO FINAL HYBRID - no tested candidate exceeded the strongest multimodal baseline,None,Random Forest,0.6043865225683407,,,,,Nested GroupKFold by State

@@ -1,0 +1,4 @@
+Dataset,Records,Features,Data Completeness (%),States Covered,Average Accidents,Average 2023 Accidents,Total 2023 Accidents,Cities Covered,Average Buses,Average Bus Terminals,Average Bus Stands,Average Bus Stops,Valid Date Records (%),Average Max Temperature,Average Min Temperature,Average Precipitation,Average Wind Speed
+Road Accident,39,14,94.14,38.0,23585.57,25977.46,961166.0,,,,,,,,,,
+Transport,74,6,96.62,,,,,43.0,381.54,23.73,67.39,503.14,,,,,
+Weather,91320,12,100.0,,,,,10.0,,,,,100.0,30.9,21.13,3.09,15.52
